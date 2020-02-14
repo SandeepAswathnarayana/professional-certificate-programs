@@ -13,6 +13,12 @@ Norman White, NYU Stern
 - Decision Sciences emerged  
 - DL, NN have found their practical applications today: Multi-layer NN by UofT used by Google Facebook, etc.  
 - DL: is just NN on steroids, more hidden layers with more computing power added  
+- Learn by building: Built his first HPC Cluster (Beowulf cluster)  
+- Today, we can 'simulate' before 'building' something. Manufacturing is becoming more digital: GE had a platform to build, design jet engines. Now, GE is selling it to other manufacturing companies  
+- Applications of ML: Recommender Systems, Classification, Cluster Analysis, Market Basket Analysis, Self Precitive Analytics,...  
+- Book by Foster Provost  
+- IoT, Zigbee Networks  
+
 
 
 
