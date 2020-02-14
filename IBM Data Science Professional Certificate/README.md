@@ -8,6 +8,7 @@ Murtaza Haider, PhD, Ryerson University
 - Worked on complaints data, Toronto Transit Commission  
 Image Recognition using [IBM Watson Studio](https://dataplatform.cloud.ibm.com/studio/watson-vision-combined/default/view?service_guid=crn:v1:bluemix:public:watson-vision-combined:us-south:a/daf2a84f216a4987b25a68802c9a66c4:e15ac5dc-26e0-489a-b6d5-e7f390599692::&project_id=7a3374e2-1c5d-4ff5-9acc-91d54e68a37d)
 Norman White, NYU Stern  
+- History of Big Data: Larry Page and Sergey Brin trying to figure out page rank algorithm. But, there was no technology to store all the web pages in the world  
 
 
 
