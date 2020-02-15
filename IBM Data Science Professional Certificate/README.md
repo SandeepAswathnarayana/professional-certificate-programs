@@ -25,7 +25,11 @@ Image Recognition using [IBM Watson Studio](https://dataplatform.cloud.ibm.com/s
 - IoT, Zigbee Networks  
 
 **John Rollins**, Data Scientist, IBM Analytics, IBM  
-- Wrote the 'The Data Science Methodology' course for this specialization    
+- Wrote the 'The Data Science Methodology' course for this specialization  
+
+[CRISP-DM](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_15.0.0/com.ibm.spss.crispdm.help/crisp_overview.htm) Methodology  
+
+
 
 
 
