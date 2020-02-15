@@ -24,6 +24,9 @@ Image Recognition using [IBM Watson Studio](https://dataplatform.cloud.ibm.com/s
 - Book by Foster Provost  
 - IoT, Zigbee Networks  
 
+**John Rollins**, Data Scientist, IBM Analytics, IBM  
+- Wrote the 'The Data Science Methodology' course for this specialization    
+
 
 
 
