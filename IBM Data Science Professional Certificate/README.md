@@ -29,7 +29,8 @@ Image Recognition using [IBM Watson Studio](https://dataplatform.cloud.ibm.com/s
 
 [CRISP-DM](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_15.0.0/com.ibm.spss.crispdm.help/crisp_overview.htm) Methodology  
 
-
+SQL:  
+Expressions used with SELECT statement: COUNT, DISTINCT, LIMIT  
 
 
 
