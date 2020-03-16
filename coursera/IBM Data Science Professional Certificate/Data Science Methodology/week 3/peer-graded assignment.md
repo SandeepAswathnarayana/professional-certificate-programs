@@ -75,5 +75,4 @@ This is where we produce our results directly to our stakeholders through storyt
 The stakeholder/client tests this whether the model delivers the correct output or not. If it provides the correct results answering the original questions, then we set it up for the client. If it doesn't give the right result, then we start the modeling process again with new input from the client. If we need new data to collect, we'll collect it. It is an iterative process and will proceed until the client obtains the correct result.  
 
 Conclusion:  
-With incredible research happening across the world, there are numerous techniques that solve the problem of insufficient data or small data. Examples include Transfer Learning, Self-supervised Learning, Synthetic Data Generation, etc. Please read this brief article for a quick overview:
-https://www.industryweek.com/technology-and-iiot/digital-tools/article/21122846/making-ai-work-with-...
+With incredible research happening across the world, there are numerous techniques that solve the problem of insufficient data or small data. Examples include Transfer Learning, Self-supervised Learning, Synthetic Data Generation, etc. Please read this brief article for a quick overview: [Making AI Work with Small Data](https://www.industryweek.com/technology-and-iiot/digital-tools/article/21122846/making-ai-work-with-small-data)  
