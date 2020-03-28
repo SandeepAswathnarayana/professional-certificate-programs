@@ -1,0 +1,11 @@
+In order to get your hands dirty, you need to be able to write and test your Apache Spark code. We’re using python for this course, therefore you need a pyspark environment. We recommend using jupyter and all resources are prepared jupyter notebooks. You are free to use any environment but we highly recommend using IBM Watson Studio throughout the course since we have tested everything in that environment.
+
+IBM Watson Studio has a free, never expiring tier which allows you to use jupyter notebooks for free. There are also 50 hours of runtime pre month included for free. You do not need a credit card.
+
+Since Watson Studio is constantly evolving and changing we are keeping a wiki page up to data where you can learn how to setup this environment.
+
+We try our best to support you as good as possible in the discussion forums, but please understand that we do not have the resources to debug your local installations individually.
+
+Please use the following link to start creating the environment:
+
+https://github.com/IBM/coursera/wiki/Environment-Setup
